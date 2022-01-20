@@ -1,7 +1,7 @@
 ﻿
 # eDreams Predicting Extra Baggage 
 
-I am an enthusiast of travelling but I am always disappointed with the flight purchase process, 
+I am an enthusiast of travelling, but I am always disappointed with the flight purchase process, 
 I always felt it tedious and not clear. Some day looking into Internet I found a dateset related
 with travel bookings. I was interested in extra baggage step, looking for if it’s predictable or not.
 
